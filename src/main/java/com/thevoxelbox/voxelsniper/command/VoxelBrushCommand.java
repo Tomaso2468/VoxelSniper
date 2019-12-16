@@ -18,7 +18,7 @@ public class VoxelBrushCommand extends VoxelCommand
     public VoxelBrushCommand(final VoxelSniper plugin)
     {
         super("VoxelBrush", plugin);
-        setIdentifier("b");
+        setIdentifier("vb");
         setPermission("voxelsniper.sniper");
     }
 
